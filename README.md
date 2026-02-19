@@ -68,4 +68,5 @@ Dashboard ini membantu manajemen untuk:
 
 ## Author
 Muhamad Hadzami  
-Aspiring Data Analyst
+Total Data : 47.776
+
